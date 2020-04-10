@@ -3,18 +3,17 @@ A Monsterfying Moment
 Relations: Monsters and their habitats
 
 Monster:
-    -Strength
-    -Life
-    -Speed
-    -Stamina
-    -Revenue
+    -ID
+    -Name
+    -cost
     -trait
     -HabitatID
 
 Habitat
+    -ID
     -Cost
     -Type
-    -Max Monsters
+    -name
     -Monsters List
     
 Entry points:
